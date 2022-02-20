@@ -1,4 +1,9 @@
 GUI Calculator made in Python.
 
-Library - [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)<br>
-![GUI:](https://user-images.githubusercontent.com/85798694/154649894-10c454f6-3abc-4181-9bb1-44c43ebc306e.png)
+Library - [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)
+
+
+![Gui:](https://user-images.githubusercontent.com/85798694/154851872-cfba7e1e-ef42-4b2d-907a-016c600aa7c7.png)
+
+
+To install, [download](https://github.com/unlait/Gui-Calculator/files/8104354/GuiCalculator.zip), extract and run.
